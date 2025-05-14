@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-[![Violet's GitHub stats](mystats-arb0ux3sd-dugskes-projects.vercel.app/api?username=dugske)](https://github.com/anuraghazra/github-readme-stats)
+<div class="row">
+<img style="float: right;" src="https://raw.githubusercontent.com/Dugske/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img style="float: right;" src="https://raw.githubusercontent.com/Dugske/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
